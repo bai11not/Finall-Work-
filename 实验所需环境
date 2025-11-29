@@ -1,0 +1,4 @@
+本实验的cpp代码部分在Visual Studio中实现 为了实现图像处理的部分 需要下载opencv库
+此为我使用的opencv下载地址：https://github.com/huihut/OpenCV-MinGW-Build/tree/OpenCV-4.5.2-x64
+安装教程以及Visual Studio中环境配置教程：https://blog.csdn.net/yanglingwell/article/details/78380236
+根据你的vs版本来找适配的opencv版本进行配置即可
