@@ -1,0 +1,3 @@
+单图像处理：ICOOT_Segmentation_Dataset('d:\jisuanfangfa\BSDS300\images\test\101085.jpg', 'd:\jisuanfangfa\matlab\ICOOT_results', 200, 'otsu');
+数据集处理：ICOOT_Segmentation_Dataset('d:\jisuanfangfa\BSDS300\images\test', 'd:\jisuanfangfa\matlab\ICOOT_results\BSD300_results', 200, 'otsu');
+这其中200为阈值点的数量 在matlab中阈值点较少时分割图像不太清晰
