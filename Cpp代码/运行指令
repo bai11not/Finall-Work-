@@ -1,0 +1,3 @@
+在你的vs创建的项目下 将头文件和源文件添加进去后 按照教程再把环境配置好以后
+当你想要处理单张图片时 你可以右键项目 下拉找到属性 在配置属性-调试-命令参数中加入--image d:\jisuanfangfa\BSDS300\images\test\101085.jpg --output results --thresholds 4 --function otsu即可进行编译运行
+当你想要处理全部数据集时 在命令参数加入--dataset d:\jisuanfangfa\BSDS300\images\test --output results_dir --iterations 200 --edge-style即可
